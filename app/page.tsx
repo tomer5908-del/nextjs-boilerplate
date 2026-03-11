@@ -869,9 +869,9 @@ export default function Home() {
         </div>
 
         <div className="contact-links">
-          <a href="mailto:omertunc@example.com" className="contact-link">✉ E-posta Gönder</a>
-          <a href="https://github.com" target="_blank" rel="noreferrer" className="contact-link">⌥ GitHub</a>
-          <a href="https://linkedin.com" target="_blank" rel="noreferrer" className="contact-link">◈ LinkedIn</a>
+          <a href="mailto:tomer5908@gmail.com" className="contact-link">✉ E-posta Gönder</a>
+          <a href="https://github.com/tomer5908-del" target="_blank" rel="noreferrer" className="contact-link">⌥ GitHub</a>
+          <a href="https://www.linkedin.com/in/omer-tunc-a778693b6/" target="_blank" rel="noreferrer" className="contact-link">◈ LinkedIn</a>
         </div>
       </section>
 
